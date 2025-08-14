@@ -95,7 +95,7 @@ There are tools and approaches I love and others I intentionally avoid.
 * Building tools that solve real problems
 * Projects and libraries that are designed to be composed, not locked in
 
-I don’t build for mone. I build because something in me needs to. When I’m fully focused and connected to what I’m creating, I move faster, think deeper, and learn more. That level of immersion creates results no “just doing the job” mindset can reach. That’s where the real value is. Everything else is noise.
+I don’t build for money. I build because something in me needs to. When I’m fully focused and connected to what I’m creating, I move faster, think deeper, and learn more. That level of immersion creates results no “just doing the job” mindset can reach. That’s where the real value is. Everything else is noise.
 
 ### I Don't Like
 
